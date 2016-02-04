@@ -3,6 +3,6 @@
  * For licensing, see LICENSE.md or http://ckeditor.com/license
  */
 
-CKEDITOR.plugins.setLang( 'magicline', 'sk', {
-	title: 'Odsek vložiť sem'
+CKEDITOR.plugins.setLang( 'magicline', 'de-ch', {
+	title: 'Absatz hier einfügen'
 } );
