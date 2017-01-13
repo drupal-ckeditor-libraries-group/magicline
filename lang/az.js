@@ -3,6 +3,6 @@
  * For licensing, see LICENSE.md or http://ckeditor.com/license
  */
 
-CKEDITOR.plugins.setLang( 'magicline', 'de', {
-	title: 'Absatz hier einfügen'
+CKEDITOR.plugins.setLang( 'magicline', 'az', {
+	title: 'Abzası burada əlavə et'
 } );
